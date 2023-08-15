@@ -1,0 +1,22 @@
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Negocio\bin\Debug\Negocio.dll
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Negocio\bin\Debug\Negocio.pdb
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Negocio\bin\Debug\Datos.dll
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Negocio\bin\Debug\Entidades.dll
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Negocio\bin\Debug\Datos.pdb
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Negocio\bin\Debug\Entidades.pdb
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Negocio\obj\Debug\Negocio.dll
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Negocio\obj\Debug\Negocio.pdb
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Negocio\bin\Debug\Negocio.dll
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Negocio\bin\Debug\Negocio.pdb
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Negocio\bin\Debug\Datos.dll
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Negocio\bin\Debug\Entidades.dll
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Negocio\bin\Debug\Datos.pdb
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Negocio\bin\Debug\Entidades.pdb
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Negocio\obj\Debug\Negocio.dll
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Negocio\obj\Debug\Negocio.pdb

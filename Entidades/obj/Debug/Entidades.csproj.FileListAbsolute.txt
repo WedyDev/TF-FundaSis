@@ -1,0 +1,12 @@
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Entidades\bin\Debug\Entidades.dll
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Entidades\bin\Debug\Entidades.pdb
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Entidades\obj\Debug\Entidades.dll
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Entidades\obj\Debug\Entidades.pdb
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Entidades\bin\Debug\Entidades.dll
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Entidades\bin\Debug\Entidades.pdb
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Entidades\obj\Debug\Entidades.dll
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Entidades\obj\Debug\Entidades.pdb

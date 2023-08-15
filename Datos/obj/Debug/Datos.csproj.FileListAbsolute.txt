@@ -1,0 +1,18 @@
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Datos\bin\Debug\Datos.dll
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Datos\bin\Debug\Datos.pdb
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Datos\bin\Debug\Entidades.dll
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Datos\bin\Debug\Entidades.pdb
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Datos\obj\Debug\Datos.csproj.CopyComplete
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Datos\obj\Debug\Datos.dll
+G:\UPC CICLO III\FUNDAMENTO DE SISTEMA DE INFORMACION\TRABAJO FINAL\TF_Velocity_Express\Datos\obj\Debug\Datos.pdb
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Datos\bin\Debug\Datos.dll
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Datos\bin\Debug\Datos.pdb
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Datos\bin\Debug\Entidades.dll
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Datos\bin\Debug\Entidades.pdb
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Datos\obj\Debug\Datos.dll
+C:\Users\wdelg\Desktop\TrabajoFinal_Funda\TF_Velocity_Express\Datos\obj\Debug\Datos.pdb
